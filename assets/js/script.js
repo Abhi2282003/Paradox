@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // Interval for auto-advancing (change the value in milliseconds as needed)
-  const autoAdvanceInterval = 1000; // 1 second
+  const autoAdvanceInterval = 3000; // 1 second
 
   let autoAdvance = setInterval(nextSlide, autoAdvanceInterval);
 
